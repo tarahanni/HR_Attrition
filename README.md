@@ -54,6 +54,7 @@ after discovering the roles that faced the most attrition were laboratory techni
 
 <img width="274" alt="Screen Shot 2023-07-11 at 16 07 41" src="https://github.com/tarahanni/HR_Attrition/assets/135048214/4243ebc6-9eaf-49ce-ab94-6f5f7badea85">
 <img width="269" alt="Screen Shot 2023-07-11 at 16 55 06" src="https://github.com/tarahanni/HR_Attrition/assets/135048214/63d5e3b6-6e1e-4e1f-8ad5-796704722066">
+
 The chart on the left side demonstrates the majority of employees work between the ages of 24-44. This demographic represents the organization's primary active workforce. Furthermore, the graph on the right indicates that the active workforce is also the one experiencing the most attrition.
 
 <img width="282" alt="Screen Shot 2023-07-11 at 16 06 49" src="https://github.com/tarahanni/HR_Attrition/assets/135048214/d5a52491-795c-4402-922b-56df71918170">
